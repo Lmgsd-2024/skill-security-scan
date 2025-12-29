@@ -12,6 +12,8 @@
 
 **skill-security-scan** 是一个命令行工具，用于扫描和检测 Claude Skills 的安全风险。在安装第三方 Skills 前，使用此工具进行安全审查，有效防止恶意代码窃取数据或破坏系统。
 
+本项目由 [WellAlly Technology](https://www.wellally.tech/) 开发者发起并维护，致力于为开发者社区提供安全可靠的工具。
+
 ### ⚠️ 为什么需要 skill-security-scan？
 
 在本地 Claude Code 中使用 Skills 存在以下安全风险：
